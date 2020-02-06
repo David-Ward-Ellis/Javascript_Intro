@@ -5,3 +5,6 @@ let petName = {
   ringy: "snake",
   wingy: "bird"
 }
+
+console.log (petName);
+console.log(petName.otis);
