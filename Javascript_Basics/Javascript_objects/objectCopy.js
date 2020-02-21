@@ -32,7 +32,8 @@ let newObject = copyObject(objToCopy);
 console.log(newObject.name);
 console.log (newObject);
 
-let newObject1 = copyObject(objToCopy, ['age']);
+let newObject1 = copyObject(objToCopy, ['name', 'age']);
 console.log (newObject1.age);
+console.log(newObject.name);
 
 

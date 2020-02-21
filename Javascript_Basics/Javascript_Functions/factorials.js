@@ -15,3 +15,4 @@ let factorial5 = times(factorial4, 5);
 // set default value
 
 times(times(times(times(times(1), 2), 3), 4), 5)
+
